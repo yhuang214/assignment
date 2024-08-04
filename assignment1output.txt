@@ -1,0 +1,15 @@
+test_arg_length (__main__.TestFinal.test_arg_length)
+when args != 2, output contains usage ... ok
+test_invalid_date (__main__.TestFinal.test_invalid_date)
+output contains usage when bad date ... ok
+test_invalid_num (__main__.TestFinal.test_invalid_num)
+output contains usage when bad number ... ok
+test_neg_arg (__main__.TestFinal.test_neg_arg)
+script returns expected output with negative number ... ok
+test_pos_arg (__main__.TestFinal.test_pos_arg)
+script returns expected output with positive number ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.236s
+
+OK
